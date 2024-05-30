@@ -62,4 +62,5 @@ Quan-Haase, Anabel, et al. “Mapping #Metoo: A synthesis review of digital femi
 
 Sommer, Will. “Police Raid MAGA ‘King of Toxic Masculinity’ in Human-Trafficking <p style = "margin-left: 30px; margin-top: -20px">Investigation”. The Daily Beast, 22 Apr 2022, https://www.thedailybeast.com/police- raid-maga-king-of-toxic-masculinity-in-human-trafficking-investigation. Accessed 11 May 2024.
 
-Zhang, Yiyue, and Kimberly Rios. “Understanding perceptions of radical and liberal <p style = "margin-left: 30px; margin-top: -20px">feminists: The nuanced roles of warmth and competence.” Sex Roles, vol. 86, no. 3–4, 3 Nov. 2021, pp. 143–158, https://doi.org/10.1007/s11199-021-01257-y. 
+Zhang, Yiyue, and Kimberly Rios. “Understanding perception
+s of radical and liberal <p style = "margin-left: 30px; margin-top: -20px">feminists: The nuanced roles of warmth and competence.” Sex Roles, vol. 86, no. 3–4, 3 Nov. 2021, pp. 143–158, https://doi.org/10.1007/s11199-021-01257-y. 
