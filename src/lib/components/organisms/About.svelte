@@ -4,25 +4,101 @@
 	import Image from '../atoms/Image.svelte';
 </script>
 
-<section id="about">
+<section id="about" style="text-align: justify;">
 	<div class="info">
 		<h2>
-			This is an introduction to the
-			<SparklingHighlight color="secondary">papers!</SparklingHighlight>
+			Let's start by introducing the different paper topics in the
+			<br />
+			<SparklingHighlight color="secondary">BLOG INTRODUCTION!</SparklingHighlight>
 		</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum velit voluptatibus commodi
-			autem provident quam labore, libero beatae praesentium voluptate?
+			Society is rampant with complex issues that influence the lives of people. While some of these
+			problems may not seem obvious, they manifest in the interactions, systems, culture, and even
+			the media consumed by the people. We present four papers that delve deeply into specific
+			societal issues providing insights and knowledge that may contribute to the development of a
+			better society.
 		</p>
-		<div class="socials">
-			<span>Socials:</span>
-			<Socials />
-		</div>
 	</div>
+
 	<div class="image">
 		<Image src="/images/societal-image.png" alt="Sample for the static template" />
 	</div>
 </section>
+
+<section id="about" style="text-align: justify;">
+	<div class="info">
+		<p>
+			Starting off with “How Everything Changed: Colonization in Avatar: The Last Airbender” by
+			<span style="font-weight: bold;">Crizanne Chanelle Mejica</span>
+			discusses how colonization in the animated series “Avatar: The Last Airbender” serves as the common
+			root of political, societal, and cultural challenges within its world…
+		</p>
+
+		<br />
+
+		<p>
+			Meanwhile, focusing on the domain of data security and privacy, the paper “Health Insurance or
+			Information Liability: An Analysis Behind the PhilHealth Data Breach and its Implications” by
+			<span style="font-weight: bold;">Adrian Perez</span> provides an extensive analysis behind the
+			PhilHealth data breach, its implications, and the steps that were taken to respond to the incident.
+			Data security is often ignored because of the low attention it gets from the communities in the
+			Philippines. In this paper, he discusses current trends of how much the Philippines is being attacked
+			through this method and how it goes unnoticed in news until a major incident blows up such as the
+			PhilHealth Data Breach Incident.
+		</p>
+	</div>
+
+	<div class="image">
+		<Image src="/images/society.png" alt="Sample for the static template" />
+	</div>
+</section>
+
+<div style="text-align: justify;">
+	<p>
+		Analyzing the Philippine culture, “Guardians Against Grooming: Protecting Filipino Children from
+		Exploitation” by <span style="font-weight: bold;">Janinalaine Platero</span> emphasizes how grooming
+		and pedophilia are alarmingly normalized in the Philippine society. The paper explores the characteristics
+		and effects of grooming and pedophilia. Due to the manipulative and secretive background of these
+		heinous acts, they are often difficult to detect, lurking unnoticed within our society.The cultural
+		factors that contribute to the normalization grooming and pedophilia are also analyzed in this paper
+		which will provide the readers with nuanced understanding on why this issue is rampant in the Philippines.
+		This analysis paper does not only aim to raise awareness but also to advocate for collective action
+		to protect the Filipino youth.
+	</p>
+
+	<br />
+
+	<p>
+		Finally, the paper “Unpacking the Toxic Alpha Male Mindset and its Societal Repercussions” by
+		<span style="font-weight: bold;">Aaron Tolentino</span> shows the concept of the `alpha male` which
+		has deeply influenced societal norms and gender roles, characterized by traits like dominance and
+		aggression. Recently, social media has amplified this toxic culture, with figures like Andrew Tate
+		promoting misogynistic ideologies. This paper critically examines the prevalence and impact of alpha
+		male culture, focusing on its digital manifestations. By analyzing harmful stereotypes and power
+		dynamics, we aim to highlight the terrible effects of toxic masculinity on progress and gender equality.
+		Drawing from feminist theories, we explore the motivations behind this movement and its resistance
+		to societal change.
+	</p>
+
+	<br />
+
+	<p>
+		Bringing up these societal complexities as a topic of discourse for the community not only
+		allows other people to be aware of it but it also elevates and highlights the importance of not
+		just knowing about it, but taking action against it as well. Through the use of this blog, our
+		group aims to spread, educate, and place importance on these issues to demand a better program,
+		system, and response from each sector of the society. We believe that taking action,
+		hand-in-hand, with the government against these will elevate both the lifestyle of the people in
+		the community and the basic rights they deserve to have.
+	</p>
+
+	<br />
+
+	<div class="socials">
+		<span>Socials:</span>
+		<Socials />
+	</div>
+</div>
 
 <style lang="scss">
 	@import '$lib/scss/breakpoints.scss';
