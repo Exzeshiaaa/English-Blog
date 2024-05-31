@@ -2,10 +2,6 @@
 
 A lightweight and customizable template for blogs and portfolio websites, built with SvelteKit.
 
-# Demo site
-
-You can see the template live [on the demo site](https://sveltekit-static-blog-template.vercel.app/). Additionally, you can check all components in isolation [on Histoire](https://histoire-sveltekit-static-blog-template.vercel.app/).
-
 # Building & Running Locally
 
 To run it locally, you simply have to run:
