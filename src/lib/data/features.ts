@@ -64,8 +64,8 @@ export default [
   {
     name: 'Janinalaine Platero',
     description:
-      'He is a 4th year student in UPD taking up the course, BS Electronics and Communications Engineering. He is an avid user of social media especially Youtube. He was taken aback by the sudden the rise of Toxic Masculinity being spread especially in his page.',
+      'Janinalaine is an undergraduate student at UPD taking up the course BS Computer Science. She spends excessive time on social media exposing her to various societal issues.',
     image: 'images/features/janinalaine.jpg',
-    tags: [{ label: 'UPD' }]
+    tags: [{ label: 'UPD' }, { label: 'ComSci', color: 'secondary' }]
   },
 ] as Feature[];
