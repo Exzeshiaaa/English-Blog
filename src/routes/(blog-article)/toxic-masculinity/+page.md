@@ -1,9 +1,9 @@
 ---
 title: "Unpacking the Toxic Alpha Male Mindset and Its Societal Repercussions"
 slug: toxic-masculinity
-coverImage: /images/posts/data.jpg
+coverImage: /images/posts/toxic.jpg
 date: 2024-05-31T21:55:15.391Z
-excerpt: idk
+excerpt: This paper critically examines the prevalence and impact of alpha male culture, focusing on its digital manifestations. By analyzing harmful stereotypes and power dynamics, we aim to highlight the terrible effects of toxic masculinity on progress and gender equality. Drawing from feminist theories, we explore the motivations behind this movement and its resistance to societal change.
 
 tags:
   - Toxic Masculinity
@@ -15,7 +15,7 @@ tags:
   import Image from "$lib/components/atoms/Image.svelte";
 </script>
 
-<p style = "text-align: center; font-weight: bold;">Aaron Tolentino</p>
+<p style = "text-align: center; font-weight: bold;">by: Aaron Tolentino</p>
 
 The pursuit of embodying the “alpha male” archetype is one of the important aspects of the patriarchal society. From a young age, men are conditioned to embrace qualities like toughness, stoicism, assertiveness, and dominance, as these traits have been established as the factors of “real men” by a society that has envisioned these things as the true metrics of masculinity (Marsales 10). The conditioning of hegemonic masculinity shapes the behavior and mindset of men, compelling them to follow the expectations of society. This notion, which is deeply rooted in our society, continues to shape our societal norms and expectations. In the modern era. The alpha male culture has found new life and visibility, particularly through the lens of social media and online platforms. Figures like Andrew Tate, a renowned kickboxing world champion turned entrepreneur and self proclaimed “alpha male”, exemplify this culture, influencing millions of followers. These followers have a wide range of demographics from various age groups and socioeconomic backgrounds. <u>This paper aims to examine the prevalence and ramifications of alpha male culture in modern society, focusing on its manifestations in social media.</u> It will delve into the ways this culture perpetuates gender stereotypes and power dynamics, influencing individuals’ behavior and societal expectations, exemplified by influential figures like Andrew Tate and others.
 

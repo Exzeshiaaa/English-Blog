@@ -12,11 +12,11 @@
 			<SparklingHighlight color="secondary">BLOG INTRODUCTION!</SparklingHighlight>
 		</h2>
 		<p>
-			Society is rampant with complex issues that influence the lives of people. While some of these
-			problems may not seem obvious, they manifest in the interactions, systems, culture, and even
-			the media consumed by the people. We present four papers that delve deeply into specific
-			societal issues providing insights and knowledge that may contribute to the development of a
-			better society.
+			Our society is rampant with complex issues that influence the lives of people. While some of
+			these problems may not seem obvious, they manifest in several ways which include interactions,
+			systems, culture, and even the media consumed by the people. In this blog, we present four
+			papers that delve deeply into specific societal issues providing insights, knowledge, and
+			suggestions that may contribute to the development of a better and prepared society.
 		</p>
 	</div>
 
@@ -29,9 +29,12 @@
 	<div class="info">
 		<p>
 			Starting off with “How Everything Changed: Colonization in Avatar: The Last Airbender” by
-			<span style="font-weight: bold;">Crizanne Chanelle Mejica</span>
-			discusses how colonization in the animated series “Avatar: The Last Airbender” serves as the common
-			root of political, societal, and cultural challenges within its world…
+			<span style="font-weight: bold;">Crizanne Chanelle Mejica</span>, in the world of the animated
+			series, there are people who can control one of the four elements: water, earth, fire, or air.
+			There is balance between the four nations, each representing one for these elements. There was
+			peace until the Fire Nation Attacked. Learn about how animated series portray the impacts of
+			colonization in this analysis paper and discover how it serves as the common root of
+			political, societal, and cultural challenges within its world.
 		</p>
 
 		<br />

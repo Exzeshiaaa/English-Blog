@@ -3,7 +3,7 @@ title: "Health Insurance or Information Liability: An Analysis Behind the PhilHe
 slug: data-breach
 coverImage: /images/posts/data.jpg
 date: 2024-05-31T21:55:15.391Z
-excerpt: "James Adrian Perez: Philippines is one of the most attacked nations through a security attack. In fact, one of the largest health organization in the Philippines was succesfully attacked and personal data were revealed to the world. Find out more by reading this!"
+excerpt: "Philippines is one of the most attacked nations through a security attack. In fact, one of the largest health organization in the Philippines was succesfully attacked and personal data were revealed to the world. Find out more by reading this!"
 
 tags:
   - Data Security
@@ -16,7 +16,7 @@ tags:
   import Image from "$lib/components/atoms/Image.svelte";
 </script>
 
-<p style = "text-align: center; font-weight: bold;">James Adrian Perez</p>
+<p style = "text-align: center; font-weight: bold;">by: James Adrian Perez</p>
 
 On September 23, 2023, the Philippine Health Insurance Corporation (PhilHealth) issued an official statement regarding a cyber security incident detected on the early morning the day before. In this statement, PhilHealth assured to the members to restore their systems by the 25th and that no personal information and medical information has been compromised or leaked. Unaware of the already impending tragedy, PhilHealth continues to provide their services to thepeople without any subsequent measures. The ignorance and the lack of urgency towards the incidence shows the incompetence of both the data security measures and the system of PhilHealth.
 
@@ -102,3 +102,32 @@ the local and global level. This is because information regarding this is scarce
 disseminated properly. Aside from making sure that the proper systems are implemented, the
 government should provide talks, news, or any sort of information regarding the importance and
 implications of not satisfying the requirement of a security system.
+
+# Works Cited
+
+Abomhara, Mohamed and Køien, Goer. “Cyber Security and the Internet of Things: <p style = "margin-left: 30px; margin-top: -20px">Vulnerabilities,Threats, Intruders and Attacks.” Journal of Cyber Security, vol. 4, pp. 65–88, doi: 10.13052/jcsm2245-1439.414
+
+Blancaflor, Eric, Daluz, Joselito Lizer, Garcia, Roduel, Monton, Nathan Gadiel, and <p style = "margin-left: 30px; margin-top: -20px">Vergara,
+Jhoana Marie., “A Literature Review on the Pervasiveness of Ransomware Threats and
+Attacks in the Philippines.” Journal of Advances in Information Technology, vol. 14, No.
+4, 2023, doi: 10.12720/jait.14.4.630-638
+
+Czeschik, Christina. “Black Market Value of Patient Data.”, Digital Marketplaces <p style = "margin-left: 30px; margin-top: -20px">Unleashed., https://doi.org/10.1007/978-3-662-49275-8_78
+
+Jaymalin, Mayen. “PhilHealth: 13 Million Members Affected by Data Breach.” <p style = "margin-left: 30px; margin-top: -20px">Philstar.Com,
+Philstar.com, 18 Oct. 2023, www.philstar.com/headlines/2023/10/19/2304835/philhealth-
+13-million-members-affected-data-breach.
+
+PhilHealth, www.philhealth.gov.ph/about_us/. Accessed 10 May 2024.
+
+Philippine Health Insurance Corporation, <p style = "margin-left: 30px; margin-top: -20px">www.philhealth.gov.ph/ofclstmnts/2023/OS2023-09-
+23_2.pdf. Accessed 10 May 2024.
+
+Rauti, Sampsa, Vuorinen, Esko, Carlsson, Robin, and Puhtila, Panu. “Data Leaks to <p style = "margin-left: 30px; margin-top: -20px">Third-Party
+Services on Medical Websites” 2023 16th International Conference on Security of
+Information and Networks (SIN), Jaipur, India, 2023, pp. 1-7, doi:
+10.1109/SIN60469.2023.10475119.
+
+TBC. “Why Healthcare Data Is so Valuable on the Black Market.” TBC Blog,
+<p style = "margin-left: 30px; margin-top: -20px">blog.tbconsulting.com/why-healthcare-data-is-so-valuable-on-the-black-market. Accessed
+10 May 2024.</p>

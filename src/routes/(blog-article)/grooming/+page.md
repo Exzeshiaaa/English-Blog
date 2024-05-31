@@ -1,7 +1,7 @@
 ---
 title: "Guardians Against Grooming: Protecting Filipino Children from Exploitation"
 slug: grooming
-coverImage: /images/posts/blog-posts.jpg
+coverImage: /images/posts/grooming.jpg
 date: 2024-05-31T21:55:15.391Z
 excerpt: "Grooming and pedophilia are alarmingly normalized in the Philippine society. This paper aims to provide a nuanced analysis of these issues specifically in the Philippines. It focuses on the characteristics, effects, cultural factors, and societal responses surrounding the topic and aims to spread awareness and provide insights to be able to better protect the youth of our country."
 tags:
@@ -15,7 +15,7 @@ tags:
   import Image from "$lib/components/atoms/Image.svelte";
 </script>
 
-<p style = "text-align: center; font-weight: bold;">Janinalaine Platero</p>
+<p style = "text-align: center; font-weight: bold;">by: Janinalaine Platero</p>
 
 Within the rich and vibrant culture of Philippine society, there is a pervasive issue faced by many of its people. Grooming and pedophilia are two interrelated yet distinct phenomena that affect the innocence of a child and ruin trust not only among communities but also within families. According to the Merriam-Webster dictionary, grooming is defined as the establishment of a trusting relationship with a minor with the intention of exploiting them, particularly for nonconsensual sexual acts. While pedophilia is a sexual perversion or psychiatric disorder where an adult has sexual fantasies or performs sexual acts on prepubescent children. As these dangerous acts exist in our society, it is of great importance that we shine a spotlight on these taboo subjects in order to provide better intervention and protection for its victims. <u>Analyzing the characteristics, effects, cultural factors, and societal responses surrounding grooming and pedophilia is important to know the specific actions we must take for a more resilient Philippine society.</u>
 

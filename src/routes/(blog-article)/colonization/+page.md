@@ -1,7 +1,7 @@
 ---
 title: "How Everything Changed: Colonization in Avatar: The Last Airbender"
 slug: colonization
-coverImage: /images/posts/blog-posts.jpg
+coverImage: /images/posts/avatar.jpg
 date: 2024-05-31T21:55:15.391Z
 excerpt: "In Avatar: The Last Airbender, there are people who can control one of the four elements: water, earth, fire, or air. There is balance between the four nations, each representing one for these elements. There was peace until the Fire Nation Attacked. Learn about how animated series portray the impacts of colonization in this analysis paper and discover how it serves as the common root of political, societal, and cultural challenges within its world."
 tags:
@@ -16,7 +16,7 @@ tags:
   import Image from "$lib/components/atoms/Image.svelte";
 </script>
 
-<p style = "text-align: center; font-weight: bold;">Crizanne Chanelle Mejica</p>
+<p style = "text-align: center; font-weight: bold;">by: Crizanne Chanelle Mejica</p>
 
 An army dressed in red, a crimson sky, and a wall of fire. It was the start of the Hundred Year War, and the peace between the nations was broken. This is how viewers were introduced to the story of Avatar: The Last Airbender (ATLA). In this world, there are people who can control one of the four elements: water, earth, fire, or air. Society is divided into four main nations, one for each element. In the center of it all is the Avatar, the only person who can control all of the elements and is burdened with the purpose of keeping the balance in the world. There was peace until the Fire Nation attacked.
 

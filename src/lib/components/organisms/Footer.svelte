@@ -11,11 +11,9 @@
 	</div>
 	<div class="content">
 		<div class="copyright">
-			This website was created and modified by James Adrian Perez <br />	 from an open source
-			<a
-				href="https://fantinel.dev?utm_source=site-template"
-				target="_blank"
-				rel="noopener noreferrer">template</a
+			This website was created and modified by Group 4 <br /> from an open source
+			<a href="https://github.com/Exzeshiaaa/English-Blog" target="_blank" rel="noopener noreferrer"
+				>template</a
 			>.
 		</div>
 		<div class="credits">
